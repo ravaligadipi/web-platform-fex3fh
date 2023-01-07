@@ -1,0 +1,62 @@
+.main {
+  background-image: url('https://ag-quiz-2022.surge.sh/background.webp');
+
+  background-color: #263d36;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  line-height: 1.2;
+  max-width: none;
+  padding: 10vw 2em;
+  text-align: center;
+}
+img {
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+}
+.logo {
+  display: inline-block;
+  height: 120px;
+  vertical-align: top;
+  width: 120px;
+}
+h2 {
+  font-size: 70px;
+  position: relative;
+  bottom: 165px;
+  left: 25px;
+}
+.logotxt {
+  color: rgb(116, 6, 6);
+}
+.txt {
+  font-size: 70px;
+  position: relative;
+  bottom: 140px;
+  right: 32px;
+
+  color: white;
+}
+h1 {
+  color: white;
+  font-size: 2.5em;
+  font-weight: 300;
+
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+a {
+  border: 1px solid #e81c4f;
+  border-radius: 290486px;
+  color: white;
+  font-size: 0.6em;
+  letter-spacing: 0.2em;
+  padding: 1em 2em;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+a:hover {
+  background: #e81c4f;
+  color: white;
+}
